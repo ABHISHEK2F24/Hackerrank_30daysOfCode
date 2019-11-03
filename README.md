@@ -1,7 +1,5 @@
 # 30 Days Of Code
 
-![open issues](https://img.shields.io/github/issues/Hackerrank_30daysOfCode?color=%2319a249) ![open PR](https://img.shields.io/github/issues-pr-closed/Hackerrank_30daysOfCode?color=%23f25f56) 
-
 Here are the solutions to all the HackerRank challenge questions For this series. 
 
 ### The following is the list of problem statements and solutions:-
