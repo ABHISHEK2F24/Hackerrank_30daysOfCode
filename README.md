@@ -25,7 +25,7 @@ Here are the solutions to all the HackerRank challenge questions For this series
 
 - **Day6**: [Question](https://www.hackerrank.com/challenges/30-review-loop/problem)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Day16**: [Question](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Day26**: [Question](https://www.hackerrank.com/challenges/30-nested-logic/problem) 
-- **Day7**: [Question](https://www.hackerrank.com/challenges/30-arrays/problem) [Solutions](https://github.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Day17**: [Question](https://www.hackerrank.com/challenges/30-more-exceptions/problem)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- **Day7**: [Question](https://www.hackerrank.com/challenges/30-arrays/problem) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Day17**: [Question](https://www.hackerrank.com/challenges/30-more-exceptions/problem)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Day27**: [Question](https://www.hackerrank.com/challenges/30-testing/problem) 
 
 - **Day8**: [Question](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Day18**: [Question](https://www.hackerrank.com/challenges/30-queues-stacks/problem)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
