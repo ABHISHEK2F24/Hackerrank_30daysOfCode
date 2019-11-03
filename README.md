@@ -1,6 +1,6 @@
 # 30 Days Of Code
 
-![open issues](https://img.shields.io/github/issues/hackerrank_30daysOfCode?color=%2319a249) ![open PR](https://img.shields.io/github/issues-pr-closed/hackerrank_30daysOfCode?color=%23f25f56) ![license]
+![open issues](https://img.shields.io/github/issues/Hackerrank_30daysOfCode?color=%2319a249) ![open PR](https://img.shields.io/github/issues-pr-closed/Hackerrank_30daysOfCode?color=%23f25f56) 
 
 Here are the solutions to all the HackerRank challenge questions For this series. 
 
